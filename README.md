@@ -1,6 +1,7 @@
-# 01 辅助插件 + 配置文件
+本系列是在对照[TypeScript官网](https://www.tslang.cn/)学习TypeScript学习时的练习code以及整理的学习笔记。
 
-## 1.全局安装TypeScript
+
+## 全局安装TypeScript
 
 ```
 npm install -g typescript
@@ -8,7 +9,7 @@ npm install -g typescript
 
 
 
-## 2.配置文件(自动转换`.ts`文)
+## 配置文件(自动转换`.ts`文)
 
 ```
 tsc --init
@@ -36,8 +37,8 @@ tsc
 
 
 
-### 3.安装VSCode辅助插件
+## 安装VSCode辅助插件
 
 - **Live Server**:热更新，即代码修改保存后自动更新至浏览器一打开的页面中
-- **TypeScript Auto Compilermor**:TypeScript自动编译，即`.ts`文件保存后自动编译成`.js`文件
+- **TypeScript Auto Compiler**:TypeScript自动编译，即`.ts`文件保存后自动编译成`.js`文件
 
